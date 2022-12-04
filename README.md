@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 peeps, I'm Kiran Deep</h1>
 <h3 align="center">A passionate Full Stack Developer looking forward to learn and apply skills.</h3>
 <br/>
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" />
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="900" />
 
 
 - 🌱 I’m currently learning **DSA and Machine Learning**
