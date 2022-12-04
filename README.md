@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kirandeep102030@gmail.com**
 
-- ⚡ Fun fact **Love to watch Kick Buttowski every now and then😆**
+- ⚡ Fun fact **Love to watch Kick Buttowski every now and then:trollface:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
