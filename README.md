@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 peeps, I'm Kiran Deep</h1>
 <h3 align="center">A passionate Full Stack Developer looking forward to learn and apply skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirandeep2806&label=Profile%20views&color=0e75b6&style=flat" alt="kirandeep2806" /> </p>
+
 
 - 🌱 I’m currently learning **DSA and Machine Learning**
 
