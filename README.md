@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Django and MERN Stack**
 
-- 👨‍💻 All of my projects are available at [www.github.com/Kirandeep2806](www.github.com/Kirandeep2806)
+- 👨‍💻 All of my projects are available at [https://www.github.com/Kirandeep2806](GitHub)
 
 - 💬 Ask me about **Web Technologies, Django, React**
 
